@@ -18,10 +18,13 @@ body{
     height: 100vh;
     overflow: hidden;
     margin: 0;
+    background-image: linear-gradient(rgb(109, 16, 97),rgba(20, 20, 20, 1));
+    
 }
 
 .container{
     text-align: center;
+    
 }
 .progress-container{
     display: flex;
